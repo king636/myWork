@@ -1,2 +1,2 @@
-project for Git.
+project for Git learning.
 add a new line.
